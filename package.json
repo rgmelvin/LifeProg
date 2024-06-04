@@ -1,0 +1,12 @@
+{
+  "name": "LifeProg",
+  "packageManager": "yarn@3.4.1",
+  "dependencies": {
+    "@types/node": "^20.12.12",
+    "chart.js": "3",
+    "chartjs-node-canvas": "^4.1.6",
+    "mathjs": "^12.4.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
