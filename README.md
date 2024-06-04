@@ -1,4 +1,4 @@
-# Emission Simulation and Data Visualization
+# Energy Emission Simulation and Data Visualization
 
 ## Overview
 This project simulates the emission and transfer of energy from a source to an environment over time. The simulation updates the balance of energy in both the source and environment, distributes the emitted energy across multiple levels in the environment using a kappa distribution, and visualizes the results through dynamically generated charts.
