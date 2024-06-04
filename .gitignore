@@ -54,3 +54,6 @@ coverage/
 
 # Generated data files
 *.csv
+
+# Jupyter notebooks
+*.ipynb
