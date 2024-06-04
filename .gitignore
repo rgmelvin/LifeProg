@@ -51,3 +51,6 @@ coverage/
 
 # Miscellaneous
 *.tmp
+
+# Generated data files
+*.csv
